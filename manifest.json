@@ -1,0 +1,10 @@
+{
+  "name": "Compound Interest Calculator",
+  "short_name": "CompoundCalc",
+  "description": "See how your money grows — compound interest calculator with chart",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#d97706",
+  "orientation": "portrait"
+}
