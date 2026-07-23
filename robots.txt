@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dropagiftaru-prog.github.io/aru-compound-interest-calculator-web-tool/sitemap.xml
